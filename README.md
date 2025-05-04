@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">A passionate Data Scientist and ML-Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlgazinovAleksandr&label=Profile%20views&color=0e75b6&style=flat" alt="AlgazinovAleksandr" /> </p>
-
 - 🌱 I’m currently a Computer Science graduate student at **Tsinghua University**
 
 - 📫 How to reach me **algazinovalexandr@gmail.com**
