@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h3 align="center">A passionate Data Scientist and ML-Researcher</h3>
+<h3 align="center">A passionate Data Scientist and ML-Researcher!</h3>
 
 - 🌱 I’m currently a Computer Science graduate student at **Tsinghua University**
 
