@@ -23,7 +23,7 @@
   </a>
   <!-- LangChain -->
   <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noreferrer">
-    <img src="https://images.app.goo.gl/NkFB9jgizoDBBVPu9" alt="langchain" width="40" height="40"/>
+    <img src="https://drive.google.com/file/d/12XsZQ0Bk2gSFOdoGjoaXZ0o5ZV5cYFhc/view?usp=drive_link" alt="langchain" width="40" height="40"/>
   </a>
   <!-- AutoGen -->
   <a href="https://github.com/microsoft/autogen" target="_blank" rel="noreferrer">
