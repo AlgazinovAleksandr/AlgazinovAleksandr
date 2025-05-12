@@ -8,95 +8,31 @@
 - 📄 Know about my experiences [https://algazinovaleksandr.github.io/](https://algazinovaleksandr.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <!-- Hugging Face Transformers -->
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-  <!-- LangChain -->
-  <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/file/d/12XsZQ0Bk2gSFOdoGjoaXZ0o5ZV5cYFhc/view?usp=drive_link" alt="langchain" width="40" height="40"/>
-  </a>
-  <!-- AutoGen -->
-  <a href="https://github.com/microsoft/autogen" target="_blank" rel="noreferrer">
-    <img src="https://images.app.goo.gl/LQY2bzvCDKGPqS3q9" alt="autogen" width="40" height="40"/>
-  </a>
-  <!-- spaCy -->
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/explosion/spaCy/master/logo/spacy-logo.png" alt="spacy" width="40" height="40"/>
-  </a>
-  <!-- NLTK -->
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/NLTK_Logo.png" alt="nltk" width="40" height="40"/>
-  </a>
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <!-- CatBoost -->
-  <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://catboost.ai/images/catboost_logo.png" alt="catboost" width="40" height="40"/>
-  </a>
-  <!-- LightGBM -->
-  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo_lightgbm.svg" alt="lightgbm" width="40" height="40"/>
-  </a>
-  <!-- numpy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <!-- matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/logo2.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <!-- seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <!-- AutoML -->
-  <a href="https://cloud.google.com/automl" target="_blank" rel="noreferrer">
-    <img src="https://cloud.google.com/_static/images/cloud/products/automl.svg" alt="automl" width="40" height="40"/>
-  </a>
-  <!-- PySpark -->
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- SQL -->
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sql.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <!-- Hadoop -->
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-  <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
-  </a>
+
+<h3>Tools and Languages:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+    <img src="https://img.shields.io/badge/LangChain-00C65A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/AutoGen-4285F4?style=for-the-badge" alt="AutoGen"/>
+    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+    <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/CatBoost-FF69B4?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost"/>
+    <img src="https://img.shields.io/badge/LightGBM-006400?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+    <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="matplotlib"/>
+    <img src="https://img.shields.io/badge/seaborn-%233776AB.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
+    <img src="https://img.shields.io/badge/AutoML-8A2BE2?style=for-the-badge" alt="AutoML"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
 
 
