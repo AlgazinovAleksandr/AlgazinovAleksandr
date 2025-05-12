@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://algazinovaleksandr.github.io/](https://algazinovaleksandr.github.io/)
 
-<h3 align="left">Languages and Tools:</h3>
-
 <h3>Tools and Languages:</h3>
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
