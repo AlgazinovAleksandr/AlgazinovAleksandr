@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandr!</h1>
 <h3 align="center">A passionate Data Scientist and ML-Researcher</h3>
 
-- 🌱 I’m currently a Computer Science graduate student at **Tsinghua University**
+- 🌱 I’m currently a **Data Scientist at Sberbank** (the largest bank in Russia) and a Computer Science graduate student at **Tsinghua University**
 
 - 📫 How to reach me **algazinovalexandr@gmail.com**
 
