@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aleksandr+Algazinov;Data+Scientist+%7C+ML-Engineer;NLP+%7C+LLMs+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+<h1>Aleksandr Algazinov</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML-Engineer;NLP+%7C+LLMs+%7C+Multi-Agent+Systems;Building+AI+systems+end-to-end" alt="Typing SVG" />
 
 <br/>
 
@@ -73,6 +75,10 @@ Keeping up in this field demands rapid learning, constant adaptation to new tool
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=algazinovaleksandr&theme=github-compact&hide_border=true&area=true" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
