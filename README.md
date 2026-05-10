@@ -67,11 +67,3 @@ Keeping up in this field demands rapid learning, constant adaptation to new tool
 | **Blog (in Russian)** | [My Amazing Channel](https://t.me/krasnorechivyy_ch) |
 
 ---
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=algazinovaleksandr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=algazinovaleksandr&layout=compact&theme=github_dark&hide_border=true" />
-
-
-</div>
