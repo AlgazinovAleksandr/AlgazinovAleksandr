@@ -1,14 +1,14 @@
 <div align="center">
 
-<h1>Aleksandr Algazinov</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=999999&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Aleksandr!" alt="Hi, I'm Aleksandr!" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML-Engineer;NLP+%7C+LLMs+%7C+Multi-Agent+Systems;Building+AI+systems+end-to-end" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-algazinovaleksandr.github.io-58A6FF?style=flat-square&logo=github&logoColor=white)](https://algazinovaleksandr.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/algazinovaleksandr)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=algazinovaleksandr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-algazinov-726b54272/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4ksh3CQAAAAJ&hl)
 [![Email](https://img.shields.io/badge/Email-algazinovalexandr@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:algazinovalexandr@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-krasnorechivyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/krasnorechivyy)
 
@@ -73,12 +73,5 @@ Keeping up in this field demands rapid learning, constant adaptation to new tool
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=algazinovaleksandr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=algazinovaleksandr&layout=compact&theme=github_dark&hide_border=true" />
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AlgazinovAleksandr/AlgazinovAleksandr/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
