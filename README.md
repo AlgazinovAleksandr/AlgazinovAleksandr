@@ -1,39 +1,78 @@
-<h1 align="center">Hi 👋, I'm Aleksandr!</h1>
-<h3 align="center">A passionate Data Scientist and ML-Researcher</h3>
+<div align="center">
 
-- 🌱 I’m currently a **Data Scientist at Sberbank** (the largest bank in Russia) and a Computer Science graduate student at **Tsinghua University**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aleksandr+Algazinov;Data+Scientist+%7C+ML-Engineer;NLP+%7C+LLMs+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 
-- 📫 How to reach me **algazinovalexandr@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://algazinovaleksandr.github.io/](https://algazinovaleksandr.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-algazinovaleksandr.github.io-58A6FF?style=flat-square&logo=github&logoColor=white)](https://algazinovaleksandr.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/algazinovaleksandr)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=algazinovaleksandr)
+[![Email](https://img.shields.io/badge/Email-algazinovalexandr@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:algazinovalexandr@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-krasnorechivyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/krasnorechivyy)
 
-<h3>Tools and Languages:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-    <img src="https://img.shields.io/badge/LangChain-00C65A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/AutoGen-4285F4?style=for-the-badge" alt="AutoGen"/>
-    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-    <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-    <img src="https://img.shields.io/badge/CatBoost-FF69B4?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost"/>
-    <img src="https://img.shields.io/badge/LightGBM-006400?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-    <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="matplotlib"/>
-    <img src="https://img.shields.io/badge/seaborn-%233776AB.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
-    <img src="https://img.shields.io/badge/AutoML-8A2BE2?style=for-the-badge" alt="AutoML"/>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-</p>
+</div>
 
+## About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algazinovaleksandr&show_icons=true&locale=en&layout=compact" alt="algazinovaleksandr" /></p>
+I'm a **Data Scientist at Sberbank** (the largest bank in Russia), working on Multi-Agent Systems, and a **Computer Science Master's student at Tsinghua University**. I have 4+ years of Machine
+Learning experience, including 3+ years as a Data Scientist and 1+ year as a Researcher. My key domains are AI-Agents, NLP, Multimodal AI, Time Series, MLOps, and Classic ML
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algazinovaleksandr&show_icons=true&locale=en" alt="algazinovaleksandr" /></p>
+**Currently working on:** production-ready agentic pipelines (LLMs, structured outputs, multi-agent orchestration) and multimodal AI research.
+
+## Philosophy
+
+The role of a Data Scientist has fundamentally shifted. Today it means being an **AI Engineer** — someone who designs end-to-end systems and pipelines, not just calls `.fit()` and `.predict()`.
+
+Keeping up in this field demands rapid learning, constant adaptation to new tools, and applying knowledge on real data. Understanding *why* a method works, not just *that* it works, is what separates solid engineers from the rest. That's why I consistently work on pet projects, read the recent papers, and study new tools.
+
+## Stack
+
+**AI & LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00C65A?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a7f4b?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-4285F4?style=for-the-badge&logoColor=white)
+
+**Classic ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6B35?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-006400?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Engineering & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## Find Me
+
+| | |
+|---|---|
+| **Portfolio & CV** | [algazinovaleksandr.github.io](https://algazinovaleksandr.github.io/) |
+| **Email** | algazinovalexandr@gmail.com |
+| **Telegram** | [@krasnorechivyy](https://t.me/krasnorechivyy) |
+| **Blog (in Russian)** | [My Amazing Channel](https://t.me/krasnorechivyy_ch) |
+
+---
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=algazinovaleksandr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=algazinovaleksandr&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=algazinovaleksandr&theme=github-compact&hide_border=true&area=true" width="90%" />
+
+</div>
