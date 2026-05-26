@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=999999&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Aleksandr!" alt="Hi, I'm Aleksandr!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML-Engineer;NLP+%7C+LLMs+%7C+Multi-Agent+Systems;Building+AI+systems+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+ML+Researcher;Multi-Agent+Systems+%7C+LLM+Applications+%7C+Time+Series+%7C+End-to-End+ML;Author+%26+Speaker" alt="Typing SVG" />
 
 <br/>
 
@@ -16,8 +16,7 @@
 
 ## About
 
-I'm a **Data Scientist at Sberbank** (the largest bank in Russia), working on Multi-Agent Systems, and a **Computer Science Master's student at Tsinghua University**. I have 4+ years of Machine
-Learning experience, including 3+ years as a Data Scientist and 1+ year as a Researcher. My key domains are AI-Agents, NLP, Multimodal AI, Time Series, MLOps, and Classic ML
+I'm an **AI Engineer at Sberbank** (the largest bank in Russia), working on Multi-Agent Systems, and a **Computer Science Master's student at Tsinghua University**. I have 4+ years of ML experience spanning industry and research, with a background across NLP, LLMs, Multimodal AI, Time Series, MLOps, and Classic ML.
 
 **Currently working on:** production-ready agentic pipelines (LLMs, structured outputs, multi-agent orchestration) and multimodal AI research.
 
@@ -26,6 +25,15 @@ Learning experience, including 3+ years as a Data Scientist and 1+ year as a Res
 The role of a Data Scientist has fundamentally shifted. Today it means being an **AI Engineer** — someone who designs end-to-end systems and pipelines, not just calls `.fit()` and `.predict()`.
 
 Keeping up in this field demands rapid learning, constant adaptation to new tools, and applying knowledge on real data. Understanding *why* a method works, not just *that* it works, is what separates solid engineers from the rest. That's why I consistently work on pet projects, read the recent papers, and study new tools.
+
+## Research
+
+| | |
+|---|---|
+| [**MATE**](https://arxiv.org/abs/2506.19502) | Multi-agent system for context-aware modality conversions · [GitHub](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE) |
+| [**TRACE**](https://arxiv.org/abs/2506.12072) | LLM fine-tuned for transparency-focused reliability scoring of web content · [GitHub](https://github.com/AlgazinovAleksandr/TrueGL) |
+| [**Springer Book Chapter**](https://link.springer.com/chapter/10.1007/978-3-032-19185-4_12) | Embedding AI into network devices to improve efficiency, latency, and topology optimization |
+| [**ODS AI Talk**](https://www.youtube.com/watch?v=v9JS1vsIUkY) | Anomaly Scoring for Preventive Detection of Failures in Information Systems |
 
 ## Stack
 
@@ -67,3 +75,10 @@ Keeping up in this field demands rapid learning, constant adaptation to new tool
 | **Blog (in Russian)** | [My Amazing Channel](https://t.me/krasnorechivyy_ch) |
 
 ---
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=algazinovaleksandr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=algazinovaleksandr&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
