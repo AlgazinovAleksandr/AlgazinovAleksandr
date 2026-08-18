@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an **AI Engineer at Sberbank** (the largest bank in Russia), working on Multi-Agent Systems, and a **Computer Science Master's student at Tsinghua University**. I have 4+ years of ML experience spanning industry and research, with a background across NLP, LLMs, Multimodal AI, Time Series, MLOps, and Classic ML.
+I'm an **AI Engineer at Sberbank** (the largest bank in Russia), working on Multi-Agent Systems, and a **Computer Science Master's student at Tsinghua University**. I have 4.5+ years of ML experience spanning industry and research, with a background across NLP, LLMs, Multimodal AI, Time Series, MLOps, and Classic ML.
 
 **Currently working on:** production-ready agentic pipelines (LLMs, structured outputs, multi-agent orchestration) and multimodal AI research.
 
